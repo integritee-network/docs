@@ -2,7 +2,10 @@
 
 TEER token holders can participate in the parachain governance process. Decision-making is based on coin-voting. Voters will lock a freely-choosable fraction of their TEER for a certain amount of time and declare their desired outcome.
 
-Their vote will be weighted with the amount of TEER they have locked. During the lock period, the TEER holder is still in the custody of her funds but the lock prevents transferring tokens or using them to pay fees. The following is a non-exhaustive list of governance actions that TEER holders can vote on • parachain runtime code upgrades • adjusting fees • election of council members (a representative body who will decide how treasury funds are to be spent).
+Their vote will be weighted with the amount of TEER they have locked. During the lock period, the TEER holder is still in the custody of her funds but the lock prevents transferring tokens or using them to pay fees. The following is a non-exhaustive list of governance actions that TEER holders can vote on:
+* parachain runtime code upgrades
+* adjusting fees
+* election of council members (a representative body who will decide how treasury funds are to be spent).
 
 
 
