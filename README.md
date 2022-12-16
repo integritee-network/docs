@@ -105,6 +105,7 @@ Further down, you will find Dev and DevOps-oriented content to guide those who w
       * [4.8.3.3 Provision Entity](4-development/4.8-hardware-diversification/4.8.3-roles/4.8.3.3-provision-entity.md)
       * [4.8.3.4 Member](4-development/4.8-hardware-diversification/4.8.3-roles/4.8.3.4-member.md)
       * [4.8.3.5 Verifier](4-development/4.8-hardware-diversification/4.8.3-roles/4.8.3.5-verifier.md)
+  * [4.9 Development Environment](4.9-dev-environment.md/)
 * [5 Nodes & Infrastructure](5-nodes-and-infrastructure/)
   * [5.1 How to set up and run Integritee Nodes](5-nodes-and-infrastructure/5.1-how-to-set-up-and-run-integritee-network-nodes/)
     * [5.1.1 Full Node](5-nodes-and-infrastructure/5.1-how-to-set-up-and-run-integritee-network-nodes/5.1.1-full-node/)
