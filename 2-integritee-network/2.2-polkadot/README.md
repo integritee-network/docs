@@ -4,7 +4,7 @@ Polkadot was founded to tackle key points of failure of the blockchain technolog
 
 The Relay Chain is Polkadot’s main network, offering security and interoperability between the different parachains. For more information on Polkadot, check their [**official documentation**](https://wiki.polkadot.network/docs/getting-started) or their [**lightpaper**](https://cryptorating.eu/whitepapers/Polkadot/Polkadot-lightpaper.pdf).
 
-****
+
 
 ### **Table of Content:**
 

@@ -5,7 +5,7 @@ Integritee offers a wide range of products and services based on blockchain tech
 
 **Software Development Kit**
 
-We make developers' life easier who wish to build sidechains or trusted of chain workers on our network by providing them with our own Software Development Kit (SDK) **** and hide most of the complexity of dealing with TEEs.
+We make developers' life easier who wish to build sidechains or trusted of chain workers on our network by providing them with our own Software Development Kit (SDK) and hide most of the complexity of dealing with TEEs.
 
 **Attesteer**
 

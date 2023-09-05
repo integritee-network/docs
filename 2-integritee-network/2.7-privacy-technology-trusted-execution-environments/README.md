@@ -6,7 +6,7 @@ Moreover, the manufacturer can authenticate each TEE and provide remote attestat
 
 Assuming we trust TEE manufacturers’ integrity and design competence, TEEs allow us to execute any state update without sharing our data with the blockchain validator or other users. Private token transfers, private smart contracts, and private state channels thus become possible, with little computational effort.
 
-****
+
 
 ### **Table of Content:**
 

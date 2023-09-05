@@ -2,7 +2,7 @@
 
 Integritee is a network of layer 2 solutions and a public unpermissioned trust anchor for verifiable and confidential computing. Through collaboration with third-party blockchain developers and enterprise clients, the Integritee parachain serves as a versatile planting ground for a vibrant array of scalable, interoperable blockchain dApps, services, and platforms.
 
-****
+
 
 ### **Table of Content:**
 

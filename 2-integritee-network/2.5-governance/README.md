@@ -8,7 +8,7 @@ Their vote will be weighted with the amount of TEER they have locked. During the
 * adjusting fees
 * election of council members (a representative body who will decide how treasury funds are to be spent).
 
-![](<../../.gitbook/assets/Governance (1).jpg>)
+![](../../.gitbook/assets/Governance.jpg)
 
 ### **Table of Content:**
 

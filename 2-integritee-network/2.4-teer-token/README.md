@@ -2,7 +2,7 @@
 
 The TEER Token has a hard cap of 10M and is directed at utility and governance. A portion is allocated for our early contributors. Our token serves two main purposes: **utility** (paying using the services of the Integritee network, and **governance** (used for decision-making about the future of the network).
 
-****
+
 
 ### **Table of Content:**
 
