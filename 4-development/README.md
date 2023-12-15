@@ -26,6 +26,7 @@
   * [4.6.1 Sidechain demo](4.6-demos/4.6.1-sidechain-demo.md)
   * [4.6.2 TOCW demo](4.6-demos/4.6.2-tocw-demo.md)
   * [4.6.3 TEEracle demo](4.6-demos/4.6.3-teeracle-demo.md)
+  * [4.6.4 Foreign Parachain Private Transactions demo](4.6-demos/4.6.4-foreign-parentchain-private-transactions.md)
 * [4.7  Performance Benchmarking](4.7-performance-benchmarking.md)
 * [4.8 Hardware Diversification](4.8-hardware-diversification/)
   * [4.8.1 Distributor-Level Remote Attestation](4.8-hardware-diversification/4.8.1.-distributor-level-remote-attestation.md)
