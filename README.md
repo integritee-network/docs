@@ -20,7 +20,7 @@ Further down, you will find Dev and DevOps-oriented content to guide those who w
 
 ### **Table of Contents**
 
-* [1 Introduction](http://127.0.0.1:5000/o/IfmmCiczozKCKDF9gzvK/s/qncIgZuFR1dSzRfnz9LM/)
+* [1 Introduction](https://app.gitbook.com/o/IfmmCiczozKCKDF9gzvK/s/qncIgZuFR1dSzRfnz9LM/)
 * [2 Integritee Network](2-integritee-network/)
   * [2.1 What is the function of the Integritee network?](2-integritee-network/2.1-what-is-the-function-of-the-integritee-network)
     * [2.1.1 A public registry of remote attestation](2-integritee-network/2.1-what-is-the-function-of-the-integritee-network/2.1.1-a-public-registry-of-remote-attestation.md)
