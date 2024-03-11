@@ -6,7 +6,7 @@ description: Short Intro to the network
 
 The Integritee network is a second-layer solution built on a Polkadot parachain. It aims to solve the three main challenges facing most blockchain solutions to date: scalability, interoperability, and confidentiality.
 
-To achieve this, Integritee uses Polkadot's and Kusama’s Relay Chain as a security layer to ensure public auditability, while leveraging hardware-based Trusted Execution Environments (TEE) to enable the confidential processing of sensitive data. In addition, TEE-validated sidechains are deployed in order to achieve an expected throughput of up to 1,000,000 transactions per second.
+Integritee uses Polkadot's and Kusama’s Relay Chain as a security layer. Integritee itself is the trust anchor of public auditability, while leveraging hardware-based Trusted Execution Environments (TEE) enable the confidential processing of sensitive data one layer below. The aforementioned concept allows TEE-validated sidechains to be deployed on Integritee to achieve an expected throughput of up to 1,000,000 transactions per second.
 
 These technical achievements combined, open the door to a new era of applications focused on confidentiality. Integritee can be used wherever sensitive information needs to be securely processed while providing verifiable proof that the underlying raw data remains confidential and inaccessible to unauthorized parties.
 
