@@ -13,3 +13,5 @@ Our token is listed and tradable. You can follow and buy our TEER token by acces
 ### **Decentralized exchanges:**
 
 [Basilisk](https://app.basilisk.cloud/trade?assetIn=1\&assetOut=17)
+
+[-> Basilisk How To ](2.4.3.1-basilisk-guide.md)
