@@ -126,4 +126,5 @@ Further down, you will find Dev and DevOps-oriented content to guide those who w
   * [6.1 Glossary](6-misc/6.1-glossary.md)
   * [6.2 Visual Materials](6-misc/6.2-visual-materials.md)
   * [6.3 Community Info & Links](6-misc/6.3-community-info-and-links.md)
+  * [6.4. Bug Bounty Program](6-misc/6.4-bug-bounty-program.md)
 * [7 Quickstart](7.-quickstart.md)
