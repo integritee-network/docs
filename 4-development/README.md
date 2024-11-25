@@ -38,3 +38,6 @@
     * [4.8.3.4 Member](4.8-hardware-diversification/4.8.3-roles/4.8.3.4-member.md)
     * [4.8.3.5 Verifier](4.8-hardware-diversification/4.8.3-roles/4.8.3.5-verifier.md)
 * [4.9 Development Environment](4.9-dev-environment.md/)
+* [4.10 Indexers](4.10-indexers/)
+  * [4.10.1 Intro](4.10.1-intro.md)
+  * [4.10.2 Intro](4.10.2-subquery.md)
