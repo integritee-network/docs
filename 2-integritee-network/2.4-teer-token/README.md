@@ -11,4 +11,5 @@ The TEER Token has a hard cap of 10M and is directed at utility and governance. 
 * [2.4.3 How to get TEER ?](2.4.3-how-to-get-teer/)
   * [2.4.3.1 Basilisk Guide](2.4.3-how-to-get-teer/2.4.3.1-basilisk-guide.md)
 * [2.4.4 How to check the transaction history?](2.4.4-how-to-check-the-transaction-history.md)
-* [2.4.5 Tokenomics](2.4.5-tokenomics.md)
+* [2.4.5 How to bridge TEER?](2.4.5-bridge-teer.md)
+* [2.4.6 Tokenomics](2.4.6-tokenomics.md)
