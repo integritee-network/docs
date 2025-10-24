@@ -18,6 +18,7 @@ In the following chapters, we will offer insight into the fundamentals of the In
 
 Further down, you will find Dev and DevOps-oriented content to guide those who wish to build on our platform.
 
+
 ### **Table of Contents**
 
 * [1 Introduction](https://app.gitbook.com/o/IfmmCiczozKCKDF9gzvK/s/qncIgZuFR1dSzRfnz9LM/)
