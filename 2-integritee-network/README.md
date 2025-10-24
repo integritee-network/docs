@@ -1,6 +1,3 @@
----
-description: Short Intro to the network
----
 
 # 2 Integritee Network
 
